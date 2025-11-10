@@ -57,10 +57,10 @@ Setelah menjalankan model `Activity_7_Manufacturing.cfg` selama **12 jam (720 me
 *(Catatan: Ganti angka di bawah ini dengan hasil aktual dari simulasi JaamSim Anda)*
 
 1.  **Rata-rata Panjang Antrian (Average Queue Length):**
-    * `Panjang antrian 0.0325939 part dengan Rata-rata Waktu Tunggu 9.778177597 detik atau 0.1629696266 menit atau ~0.002716160444 jam.`
+    * `Panjang antrian 0.02639048069 part dengan Rata-rata Waktu Tunggu 7.917144208 detik atau 0.1319524035 menit atau 0.002199206725 jam.`
 
 2.  **Rata-rata Waktu Pemrosesan (Average Processing Time):**
-    * `3.92701971 menit`
+    * `0.06450036123 jam atau 3.870021674 menit atau 232.2013004 detik`
 
 3.  **Jumlah Benda Kerja Selesai (Parts Completed):**
-    * `143 parts`
+    * `144 parts`
