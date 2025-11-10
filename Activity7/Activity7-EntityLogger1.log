@@ -1,12 +1,12 @@
 Simulation	SoftwareName	JaamSim	-
 Simulation	SoftwareVersion	2025-08	-
-Simulation	ConfigurationFile	D:\JaamSim\Activity7.cfg	-
+Simulation	ConfigurationFile	D:\JaamSim\Activity7\Activity7.cfg	-
 Simulation	ScenarioNumber	1.0	-
 Simulation	ScenarioIndex	{ 1 }	-
 Simulation	ReplicationNumber	1.0	-
 Simulation	RunNumber	1.0	-
 Simulation	RunIndex	{ 1 }	-
-Simulation	PresentTimeAndDate	Nov 01, 2025 17:33	-
+Simulation	PresentTimeAndDate	Nov 11, 2025 00:30	-
 Simulation	PresentSimulationTime	0.0	h
 Simulation	RunDuration	12.0	h
 Simulation	InitializationDuration	0.0	h
