@@ -1,12 +1,12 @@
 Simulation	SoftwareName	JaamSim	-
 Simulation	SoftwareVersion	2025-08	-
-Simulation	ConfigurationFile	D:\JaamSim\Activity7\Activity7.cfg	-
+Simulation	ConfigurationFile	C:\Users\LENOVO\OneDrive\Documents\GitHub\FP PDST\Pemodelan-Simulasi\Activity7\Activity7.cfg	-
 Simulation	ScenarioNumber	1.0	-
 Simulation	ScenarioIndex	{ 1 }	-
 Simulation	ReplicationNumber	1.0	-
 Simulation	RunNumber	1.0	-
 Simulation	RunIndex	{ 1 }	-
-Simulation	PresentTimeAndDate	Nov 12, 2025 13:42	-
+Simulation	PresentTimeAndDate	Nov 12, 2025 14:52	-
 Simulation	PresentSimulationTime	0.0	h
 Simulation	RunDuration	12.0	h
 Simulation	InitializationDuration	0.0	h
